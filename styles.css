@@ -189,5 +189,5 @@ input:focus {
 }
 
 .book-card:hover {
-    cursor: crosshair;
+    cursor: pointer;
 }
